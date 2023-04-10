@@ -26,8 +26,8 @@ body {
   height: 200px;
   background-color: green;
   position: absolute;
-  right: 200px;
-  bottom: 200px;
+  left: -100px;
+  top: -100px;
 }
 
 .four {
